@@ -1,0 +1,7 @@
+config BR2_PACKAGE_HID3MTOUCH
+        bool "hid3mtouch"
+        help
+          This package is the hid3mtouch application for the SiBeamHID3 image.
+
+          https://github.com/thehovercam/SiBeamHID3.git
+

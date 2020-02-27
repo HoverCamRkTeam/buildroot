@@ -1,0 +1,3 @@
+# HoverCam RK3328 packages
+source "package/hovercam/hid3mtouch/Config.in"
+
