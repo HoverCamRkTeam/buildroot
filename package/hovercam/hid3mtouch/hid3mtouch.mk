@@ -5,7 +5,7 @@
 ################################################################################
 
 HID3MTOUCH_VERSION = 1.0
-HID3MTOUCH_SITE = $(TOPDIR)/../app/SiBeamHID3/hid3mtouch
+HID3MTOUCH_SITE = $(TOPDIR)/../../SiBeamHID3/hid3mtouch
 HID3MTOUCH_SITE_METHOD = local
 
 define HID3MTOUCH_BUILD_CMDS
